@@ -8,6 +8,9 @@ Menu options - <ol><li>Insert</li><li>Delete</li><li>Display</li><li>Exit</li></
 Visual Studio Code 
 
 ### Theory 
+<ul><li>A queue is an ordered collection of items where the addition of new items happens at one end, called the "rear" and the removal of exiting items occurs at the other end, commonly called the "front".</li><li>Elements are inserted at the back (end) and are deleted from the front.</li></ul> 
+
+<ol><li> To add elements to the queue, we use <b>'.push()'</b> function after declaring the queue. An element is added atthe end of the queue. </li> <li> To remove an elemnt from the queue we use the <b>'.pop()'</b> function. </li> <li><b>'.pop()'</b> function is used to check if the queue is empty or not. </li><li>In a queue, we can only access the element at the front or back, using <b>'.front()'</b> and <b>'.back()'</b> respectively.</li></ol> 
 
 ### Code 
 (A) 
