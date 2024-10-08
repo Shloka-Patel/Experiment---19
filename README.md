@@ -150,7 +150,7 @@ int main() {
 
 ### Output 
 (A) 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---19/blob/main/Output_19A.png) 
 
 (B) 
 ![]() 
